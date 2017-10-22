@@ -1,0 +1,57 @@
+﻿
+@{
+    ViewBag.Title = "GroupMessage";
+}
+
+<h2>GroupMessage</h2>
+<div class="container">
+    <div>
+        <label>Join Group</label>
+        @*write Group Name or Select from dropdown. if u create a group your friend
+            also join this group by select from dropdown or write same Name.*@
+        <select id="GroupNameDropDown">
+            <optgroup label="Public Group">
+                <option disabled selected>---Chose One--</option>
+                <option value="Admin">Admin</option>
+                <option value="User">User</option>
+            </optgroup>
+        </select>
+
+        <label>Create Group:</label>
+        <input id="txtGroupName" placeholder="Enter Group Name" />
+        <input class="btn btn-success" id="btnCreateGroup" type="button" value="Join" />
+        <input class="btn btn-danger" id="btnLeaveGroup" type="button" value="Leave" />
+    </div>
+    <hr />
+    <hr />
+
+    <div class="form-group col-md-6">
+
+        <div id="Connected"></div>
+
+        <label>User:</label>
+        <input class="form-control" id="txtUser" />
+        <label>Message:</label>
+        <input class="form-control" id="txtMessage" /><br />
+
+        @*<input class="btn btn-info" type="button" id="Send" value="Send" />*@
+
+        <input class="btn btn-success" type="button" id="SendSendToGoup" value="Chat" />
+        <hr />
+
+        <div id="resultGroup"></div>
+    </div>
+
+    <div style="text-align:right;height:400px; width:300px" class="col-md-6">
+        <label>Connections Status</label>
+        <div id="UserConnect"></div>
+    </div>
+</div>
+@section scripts{
+
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+    <script src="~/Scripts/jquery.signalR-2.1.2.js"></script>>
+    <script src="~/SignalR/js"></script>
+    <script src="~/Scripts/Chat/ChatGroup.js"></script>
+
+}

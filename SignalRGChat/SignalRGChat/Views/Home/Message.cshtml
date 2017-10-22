@@ -1,0 +1,84 @@
+﻿
+@{
+    ViewBag.Title = "Message";
+}
+<h1>
+    Chat
+</h1>
+
+@*================Comment================*@
+@*<div class="container">
+
+        <div class="form-group col-md-6">
+            <div id="Connected"></div>
+
+            <label>User:</label>
+            <input class="form-control" id="txtUser" />
+
+             <label>Message:</label>
+            <input class="form-control" id="txtMessage" /><br />
+
+            <input class="btn btn-info" type="button" id="Send" value="Send" />
+
+        </div>
+
+        <div class="col-md-6">
+            <label>Connections Status</label>
+            <div style="text-align:right" id="UserConnect"></div>
+        </div>
+    </div>*@
+@*================Comment================*@
+
+
+<div class="col-md-offset-3 col-md-5" style="background-color:rgba(128, 128, 128,.4); min-height:100px" id="ConnectionStatus" hidden>
+    <button style="float:right" class="closeHIDE btn btn-danger">Close</button>                 @*JavaScript:ConnectionStatus*@
+    <label style="text-align:center">Connections Status</label>
+    <div style="text-align:center" id="UserConnect"></div>
+</div>
+
+<div class="container">
+    <div class="row">                                   @*JavaScript: ChatLayout // CSS: ChtaLayout*@
+        <div class="panel panel-chat">
+            <div style="text-align:right; color:darkseagreen; min-height:50px">
+                <div id="OnlineUser"></div>
+            </div>
+            <div class="panel-heading">
+                <a href="#" class="chatMinimize" onclick="return false"><span id="Connected"></span></a>
+                <a href="#" class="chatClose" onclick="return false"><i class="glyphicon glyphicon-remove"></i></a>
+                <div class="clearFix"></div>
+            </div>
+            <div class="panel-body">
+                <div class="messageMe">
+                    <img src="~/Content/Chat/Original-Facebook-Geek-Profile-Avatar-1.jpg" alt="Img art" />
+                    <textarea style="background-color:gainsboro" id="txtUser" cols="100%" rows="1" placeholder="Write your Name here"></textarea>
+                    <textarea style="background-color:white" name="textMessage" id="txtMessage" cols="100%" rows="0" placeholder="Write message hare"></textarea>
+                    <div class="clearFix"></div>
+                </div>
+                <div class="messageHer">
+                    <div id="result"></div>
+                    <div class="clearFix"></div>
+                </div>
+                <div class="clearFix"></div>
+            </div>
+            @*<div class="panel-footer">
+            </div>*@
+        </div>
+    </div>
+</div>
+
+
+@section scripts{
+    <link href="~/Content/Chat/ChatLayout.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+    <script src="~/Scripts/jquery.signalR-2.2.2.js"></script>
+    <script src="~/SignalR/js"></script>
+    
+    <script src="~/Scripts/Chat/ChatGroup.js"></script>
+    <script src="~/Scripts/Chat/ChatLayout.js"></script>
+    <script src="~/Scripts/Chat/ConnectionStatus.js"></script>
+}
+
+
+
+
+

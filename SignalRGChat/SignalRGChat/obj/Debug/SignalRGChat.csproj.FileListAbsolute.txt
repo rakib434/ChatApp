@@ -1,0 +1,442 @@
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\ApplicationInsights.config
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\roslyn\csc.exe
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\roslyn\vbc.exe
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\roslyn\VBCSCompiler.exe
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\SignalRGChat.dll.config
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\SignalRGChat.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\SignalRGChat.pdb
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Antlr3.Runtime.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\EntityFramework.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\EntityFramework.SqlServer.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AI.Web.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Newtonsoft.Json.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Owin.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\System.Web.Helpers.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\System.Web.Mvc.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\System.Web.Optimization.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\System.Web.Razor.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.Razor.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\WebGrease.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AI.Web.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\System.Web.Helpers.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\System.Web.Mvc.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\System.Web.Optimization.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\System.Web.Razor.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.Razor.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Antlr3.Runtime.pdb
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Newtonsoft.Json.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\EntityFramework.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\EntityFramework.SqlServer.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\obj\Debug\SignalRGChat.dll
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\obj\Debug\SignalRGChat.pdb
+C:\Users\Students\Desktop\SignalRGChat\SignalRGChat\obj\Debug\SignalRGChat.csprojResolveAssemblyReference.cache
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\ApplicationInsights.config
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\roslyn\csc.exe
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\roslyn\vbc.exe
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\roslyn\VBCSCompiler.exe
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\SignalRGChat.dll.config
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\SignalRGChat.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\SignalRGChat.pdb
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Antlr3.Runtime.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\EntityFramework.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\EntityFramework.SqlServer.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AI.Web.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Newtonsoft.Json.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Owin.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\System.Web.Helpers.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\System.Web.Mvc.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\System.Web.Optimization.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\System.Web.Razor.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.Razor.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\WebGrease.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AI.Web.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\System.Web.Helpers.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\System.Web.Mvc.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\System.Web.Optimization.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\System.Web.Razor.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.Razor.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Antlr3.Runtime.pdb
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Newtonsoft.Json.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\EntityFramework.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\EntityFramework.SqlServer.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\obj\Debug\SignalRGChat.csprojResolveAssemblyReference.cache
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\obj\Debug\SignalRGChat.dll
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\obj\Debug\SignalRGChat.pdb
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\obj\Debug\SignalRGChat.Migrations.InitialCreate.resources
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\obj\Debug\SignalRGChat.csproj.GenerateResource.Cache
+C:\Users\MD. Rakib HASAN\Desktop\SignalRGChat\SignalRGChat\obj\Debug\SignalRGChat.Migrations._new.resources
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\ApplicationInsights.config
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\csc.exe
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\vbc.exe
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\VBCSCompiler.exe
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\SignalRGChat.dll.config
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\SignalRGChat.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\SignalRGChat.pdb
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Antlr3.Runtime.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\EntityFramework.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\EntityFramework.SqlServer.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.Web.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Newtonsoft.Json.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Owin.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.Helpers.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.Mvc.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.Optimization.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.Razor.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.Razor.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\WebGrease.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.Web.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.Helpers.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.Mvc.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.Optimization.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.Razor.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.Razor.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Antlr3.Runtime.pdb
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Newtonsoft.Json.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\EntityFramework.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\EntityFramework.SqlServer.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\obj\Debug\SignalRGChat.csprojResolveAssemblyReference.cache
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\obj\Debug\SignalRGChat.Migrations.InitialCreate.resources
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\obj\Debug\SignalRGChat.Migrations._new.resources
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\obj\Debug\SignalRGChat.csproj.GenerateResource.Cache
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\obj\Debug\SignalRGChat.dll
+C:\Users\MD. Rakib HASAN\Desktop\Home Signalr\SignalRGChat\SignalRGChat\obj\Debug\SignalRGChat.pdb
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\ApplicationInsights.config
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\csc.exe
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\vbc.exe
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\VBCSCompiler.exe
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\SignalRGChat.dll.config
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\SignalRGChat.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\SignalRGChat.pdb
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Antlr3.Runtime.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\EntityFramework.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\EntityFramework.SqlServer.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.Web.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Newtonsoft.Json.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Owin.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.Helpers.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.Mvc.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.Optimization.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.Razor.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.Razor.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\WebGrease.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.Web.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.Helpers.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.Mvc.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.Optimization.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.Razor.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.Razor.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Antlr3.Runtime.pdb
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Newtonsoft.Json.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\EntityFramework.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\EntityFramework.SqlServer.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\obj\Debug\SignalRGChat.csprojResolveAssemblyReference.cache
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\obj\Debug\SignalRGChat.Migrations.InitialCreate.resources
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\obj\Debug\SignalRGChat.Migrations._new.resources
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\obj\Debug\SignalRGChat.csproj.GenerateResource.Cache
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\obj\Debug\SignalRGChat.dll
+C:\Users\Students\Desktop\Home Signalr\SignalRGChat\SignalRGChat\obj\Debug\SignalRGChat.pdb
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\ApplicationInsights.config
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\csc.exe
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\vbc.exe
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\VBCSCompiler.exe
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\SignalRGChat.dll.config
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\SignalRGChat.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\SignalRGChat.pdb
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Antlr3.Runtime.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\EntityFramework.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\EntityFramework.SqlServer.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.Web.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Newtonsoft.Json.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Owin.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.Helpers.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.Mvc.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.Optimization.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.Razor.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.Razor.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\WebGrease.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.Web.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.Helpers.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.Mvc.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.Optimization.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.Razor.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\System.Web.WebPages.Razor.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Antlr3.Runtime.pdb
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Newtonsoft.Json.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\EntityFramework.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\EntityFramework.SqlServer.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\obj\Debug\SignalRGChat.csprojResolveAssemblyReference.cache
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\obj\Debug\SignalRGChat.Migrations.InitialCreate.resources
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\obj\Debug\SignalRGChat.Migrations._new.resources
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\obj\Debug\SignalRGChat.csproj.GenerateResource.Cache
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\obj\Debug\SignalRGChat.dll
+C:\Users\MD. Rakib HASAN\Desktop\11.5.7\Updated\Home Signalr\SignalRGChat\SignalRGChat\obj\Debug\SignalRGChat.pdb

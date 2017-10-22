@@ -1,0 +1,77 @@
+﻿
+@{
+    ViewBag.Title = "MessageAndGroupMessage";
+}
+
+<h2>Group Message</h2>
+
+@*<input class="btn btn-success" type="button" id="SendSendToGoup" value="Chat" />*@
+
+@*==================================================================================*@
+<div class="col-md-offset-3 col-md-5" style="background-color:rgba(128, 128, 128,.4); min-height:100px" id="ConnectionStatus" hidden>
+    <button style="float:right" class="closeHIDE btn btn-danger">Close</button>                 @*JavaScript:ConnectionStatus*@
+    <label style="text-align:center">Connections Status</label>
+    <div style="text-align:center" id="UserConnect"></div>
+</div>
+
+<div class="container">
+    <div class="row">
+        @*JavaScript: ChatLayout // CSS: ChtaLayout*@
+        <div class="panel panel-chat">
+            <div style="text-align:right; color:darkseagreen; min-height:50px">
+                <div id="OnlineUser"></div>
+            </div>
+                
+                <input id="txtGroupName" placeholder="Create Group" style="width:100px"/>
+                <input id="btnCreateGroup" style="background-color:chartreuse" type="button" value="Create" />
+                
+                <select id="GroupNameDropDown" style="width:100px">
+                    <optgroup label="Public Group">
+                        <option disabled selected>Join</option>
+                        <option value="Admin">Admin</option>
+                        <option value="User">User</option>
+                    </optgroup>
+                </select>
+            
+            <input  id="btnLeaveGroup" style="background-color:coral" type="button" value="Leave" />
+
+            <div class="panel-heading">
+                <a href="#" class="chatMinimize" onclick="return false"><span id="Connected"></span></a>
+                <a href="#" class="chatClose" onclick="return false"><i class="glyphicon glyphicon-remove"></i></a>
+                <div class="clearFix"></div>
+            </div>
+            <div class="panel-body">
+                <div class="messageMe">
+                    <img src="~/Content/Chat/Original-Facebook-Geek-Profile-Avatar-1.jpg" alt="Img art" />
+                    <textarea style="background-color:gainsboro" id="txtUser" cols="100%" rows="1" placeholder="Write your Name here"></textarea>
+                    <textarea style="background-color:white" name="textMessage" id="txtMessage" cols="100%" rows="0" placeholder="Write message here"></textarea>
+                    <textarea style="background-color:white" name="textMessage" id="txtGroupMessage" cols="100%" rows="0" placeholder="Write Group message here"></textarea>
+                    <div class="clearFix"></div>
+                </div>
+                <div class="messageHer">
+                    <div id="result"></div>
+                    <div id="resultGroup" hidden></div>
+                    <div class="clearFix"></div>
+                </div>
+                <div class="clearFix"></div>
+            </div>
+            @*<div class="panel-footer">
+                </div>*@
+        </div>
+    </div>
+</div>
+
+
+@section scripts{
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/Chat/ChatLayout.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+    <script src="~/Scripts/jquery.signalR-2.2.2.js"></script>
+    <script src="~/SignalR/js"></script>
+
+    <script src="~/Scripts/Chat/ChatGroup.js"></script>
+    <script src="~/Scripts/Chat/ChatLayout.js"></script>
+    <script src="~/Scripts/Chat/ConnectionStatus.js"></script>
+}
+
+
